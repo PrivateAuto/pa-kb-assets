@@ -20,4 +20,4 @@ https://raw.githubusercontent.com/PrivateAuto/pa-kb-assets/main/dealnow/<article
 
 ## Provenance
 
-Initial DealNow import (2026-07-10): 120 images pulled from the rendered help center pages that were previously hosted on Scribe / Colony Recorder CDN (cloudimg.io). These are DealNow-owned captures of the DealNow product; Scribe's terms assign content ownership to the customer. HelpScout-native images (cloudfront docs assets) were left in place and migrate later with the full help-center pull.
+Complete DealNow import (2026-07-10): 219 images. Every image from all 46 published DealNow articles (65 previously HelpScout-native + 120 previously on Scribe / Colony Recorder CDN), numbered in body order, plus 34 images from the 5 surviving unpublished drafts (articles 286, 287, 289, 324, 344). This repo is the single home for help-center images going forward: articles reference these paths, and replacing a stale screenshot means overwriting the file at the same path (no article edit needed). All content is DealNow-owned product captures; Scribe's terms assign content ownership to the customer. PrivateAuto images migrate when its article overhaul starts.
